@@ -31,10 +31,11 @@ Welcome to **Stock Market Data Analysis**, a project designed to analyze stock m
 Follow these steps to set up the application on your local machine:  
 
 1. **Clone the repository:**  
+```
 git clone https://github.com/<your-github-username>/stock-market-data-analysis.git
 cd stock-market-data-analysis
 
-text
+```
 
 2. **Create a virtual environment:**
 ```
